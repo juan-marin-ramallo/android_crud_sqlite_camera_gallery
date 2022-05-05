@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Taller 6 - Marin</string>
+    <string name="edittext_nombre">Ingrese su nombre</string>
+    <string name="edittext_edad">Ingrese su edad</string>
+    <string name="button_nuevo">Nuevo</string>
+    <string name="button_grabar">Grabar</string>
+    <string name="button_eliminar">Eliminar</string>
+    <string name="spinner_usuarios">Lista de Usuarios</string>
+    <string name="imageButton_tomarFoto">Tomar Foto</string>
+    <string name="imageButton_mostrarGaleria">Mostrar Galeria</string>
+</resources>
